@@ -50,7 +50,7 @@ We preprocess the data, apply multiple linear regression, and evaluate the model
 # Output & Notebook :
 
 **Colab Notebook**:  
-[Click here to view the notebook](#) *(Insert your GitHub .ipynb file link)*
+[Click here to view the notebook](https://github.com/ParsewarPranav/Advertising-Spend-vs-Sales-Regression-project/blob/main/Project1.ipynb)
         
 # Dataset :
 **Dataset Link** :  
