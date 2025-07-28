@@ -61,5 +61,5 @@ This dataset is custom/prepared and contains 100+ records with features includin
         
 # 👤 Author : 
 Made with ❤️ by **[Pranav Parsewar](https://github.com/ParsewarPranav)**  
-# My LinkedIn : https://www.linkedin.com/in/pranav-parsewar-1a8178220/
+My LinkedIn :  **[Pranav Parsewar_LinkedIn](https://www.linkedin.com/in/pranav-parsewar-1a8178220/))**
 This project is part of one of my **data science projects**. Feedback and collaboration are most welcome!!
